@@ -1,1 +1,2 @@
-This is our first class on VCS
+Something else
+We are learning something new
